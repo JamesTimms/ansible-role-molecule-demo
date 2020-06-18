@@ -5,6 +5,7 @@
 A "role" to demonstrate the power of [Ansible Molecule](https://molecule.readthedocs.io/en/stable/)
 
 
+
 ## About 
 Molecule is pretty rad, so rad that [Jeff Geerling is adopting it](https://www.jeffgeerling.com/blog/2018/testing-your-ansible-roles-molecule). 
 It helps you develop Ansible roles by providing out of the box:
